@@ -6,15 +6,15 @@ A powerful, user-friendly expense tracking system designed to help you manage an
 
 - **Add Expenses**
   
-  ![Add Expenses](screenshots/add_expenses.png)
+  ![Add Expenses](add_expenses.png)
 
 - **View Expenses**
   
-  ![View Expenses](screenshots/view_expenses.png)
+  ![View Expenses](aview_expenses.png)
 
 - **Analytics**
   
-  ![Analytics](screenshots/analytics.png)
+  ![Analytics](analytics.png)
 
 ## 🔍 Overview
 
